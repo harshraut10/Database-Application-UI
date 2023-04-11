@@ -1,7 +1,7 @@
 # Database-Application-UI
 Created UI for railway management system in dbms group project. 
 
-Run the code by from DriverClass.java
+Run the code from DriverClass.java
 
 DATABASE APPLICATION UI (RAILWAY MANAGEMENT SYSTEM) | 2022
 ∎ CREATED ADMIN DASHBOARD PANEL AND EVENT HANDLING
